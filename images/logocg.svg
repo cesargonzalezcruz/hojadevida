@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <defs>
+  <linearGradient y2="0" x2="1" y1="0.800781" x1="0.565125" id="svg_12">
+   <stop offset="0" stop-opacity="0.996094" stop-color="#083766"/>
+   <stop offset="1" stop-opacity="0.996094" stop-color="#6da8a8"/>
+   <stop offset="1" stop-color="#cccccc"/>
+  </linearGradient>
+  <linearGradient y2="0" x2="1" y1="0" x1="0" spreadMethod="pad" id="svg_17">
+   <stop offset="0" stop-opacity="0.996094" stop-color="#0a0a59"/>
+   <stop offset="0.596375" stop-opacity="0.996094" stop-color="#005fbf"/>
+   <stop offset="0.701843" stop-color="#ffffff"/>
+   <stop offset="0.897156" stop-opacity="0.996094" stop-color="#005fbf"/>
+   <stop offset="1" stop-color="#ffffff"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <line stroke="#003f7f" id="svg_7" y2="437.859375" x2="616.671892" y1="438.859375" x1="20.171875" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="8" fill="none"/>
+  <line id="svg_8" y2="426.000004" x2="616.25003" y1="426.000004" x1="20.000016" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="8" stroke="#7f7f7f" fill="none"/>
+  <text font-weight="bold" font-style="italic" stroke="#003f7f" transform="matrix(14.374354479472741,0,0,16.842093827701273,-1325.8881910214268,-3186.360603189563) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_9" y="212.05733" x="105.454667" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="url(#svg_17)">C</text>
+  <text font-weight="bold" font-style="italic" stroke="#003f7f" transform="matrix(18.019595485848413,0,0,12.905813122240033,-5774.524476097155,-1408.1832969877478) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_10" y="138.183836" x="339.742772" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="url(#svg_12)">G</text>
+  <rect stroke="#191919" id="svg_20" height="48" width="592.99997" y="16.75" x="21" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#b2b2b2"/>
+  <line stroke-width="3" id="svg_21" y2="40" x2="262" y1="40" x1="23" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#191919" fill="none"/>
+  <polygon stroke-width="2" stroke="#4c4c4c" points="313,16.46884059906006 318.7676086425781,33.06155014038086 336.33050537109375,33.41945457458496 322.33221435546875,44.03221893310547 327.4190673828125,60.846126556396484 313,50.812461853027344 298.5809326171875,60.846126556396484 303.66778564453125,44.03221893310547 289.66949462890625,33.41945457458496 307.2323913574219,33.06155014038086 313,16.46884059906006 318.7676086425781,33.06155014038086 " strokeWidth="null" strokecolor="#191919" fill="none" orient="point" r2="9.812464" r="24.531159" point="5" shape="star" id="svg_23" cy="30" cx="297"/>
+  <polygon stroke-width="2" stroke="#4c4c4c" points="282,39.904457092285156 284.6087341308594,47.40940856933594 292.552490234375,47.5712890625 286.22100830078125,52.371482849121094 288.52178955078125,59.97648239135742 282,55.43821716308594 275.47821044921875,59.97648239135742 277.77899169921875,52.371482849121094 271.447509765625,47.5712890625 279.3912658691406,47.40940856933594 282,39.904457092285156 284.6087341308594,47.40940856933594 " strokeWidth="null" strokecolor="#191919" fill="none" orient="point" r2="4.438218" r="11.095545" point="5" shape="star" id="svg_24" cy="31" cx="295"/>
+  <polygon id="svg_25" stroke-width="2" stroke="#4c4c4c" points="344,40.9639892578125 346.6087341308594,48.46894073486328 354.552490234375,48.630821228027344 348.22100830078125,53.43101501464844 350.52178955078125,61.0360107421875 344,56.49774932861328 337.47821044921875,61.0360107421875 339.77899169921875,53.43101501464844 333.447509765625,48.630821228027344 341.3912658691406,48.46894073486328 344,40.9639892578125 346.6087341308594,48.46894073486328 " strokeWidth="null" strokecolor="#191919" fill="none" orient="point" r2="4.438218" r="11.095545" point="5" shape="star" cy="31" cx="295"/>
+  <line id="svg_26" stroke-width="3" y2="38.999995" x2="611.250031" y1="38.999995" x1="372.250031" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#191919" fill="none"/>
+ </g>
+</svg>

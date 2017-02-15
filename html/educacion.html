@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Curriculum Vitae - Educación</title>
+  </head>
+  <body>
+    <header>
+        <svg width="300px" height="200px">
+            <image width="300px" height="200px" xlink:href="../images/logocg.svg"></image>
+        </svg>
+        <h1>Curriculum Vitae</h1>
+        <h2>César Antonio González Cruz</h2>
+        <h3>14-05-1973, Santiago</h3>
+        <svg width="100%" height="20">
+            <line x1="0" y1="10" x2="100%" y2="10" stroke="gray" stroke-width="1"/>
+        </svg>
+    </header>
+    <nav>
+        <ul>
+          <li><a href="../index.html">Inicio</a></li>
+          <li><a href="educacion.html">Educación</a></li>
+          <li><a href="../html/experiencia.html">Experiencia</a></li>
+        </ul>
+    </nav>
+    <section id="educacion">
+      <h2>Educación</h2>
+        <table style="width:40%;color:black;border-style:solid;border-width:2px">
+          <thead>
+            <tr style="color:white;background:blue">
+              <th style="border-style:solid;border-width:1px">Año</th>
+              <th style="border-style:solid;border-width:1px">Institución</th>
+              <th style="border-style:solid;border-width:1px">Lugar</th>
+              <th style="border-style:solid;border-width:1px">¿Culminó?</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr style="text-align:center">
+              <td style="border-style:solid;border-width:1px">1996</td>
+              <td style="border-style:solid;border-width:1px">IPCC</td>
+              <td style="border-style:solid;border-width:1px">Santiago</td>
+              <td style="border-style:solid;border-width:1px">Sí</td>
+            </tr>
+            <tr style="text-align:center">
+              <td style="border-style:solid;border-width:1px">2003</td>
+              <td style="border-style:solid;border-width:1px">DUOC UC</td>
+              <td style="border-style:solid;border-width:1px">Santiago</td>
+              <td style="border-style:solid;border-width:1px">Sí</td>
+            </tr>
+            <tr style="text-align:center">
+              <td style="border-style:solid;border-width:1px">2009</td>
+              <td style="border-style:solid;border-width:1px">IN MOTION</td>
+              <td style="border-style:solid;border-width:1px">Santiago</td>
+              <td style="border-style:solid;border-width:1px">Sí</td>
+            </tr>
+          </tbody>
+        </table>
+        <br>
+        <form class="forms" autocomplete="on" name="formAddEstudios" title="Agregar Estudios">
+           <fieldset style="width:38%">
+              <legend style="font-size:20px;font-weight:bold">Agregar Estudios</legend>
+              <br>
+              <label for="NewYear">Año:</label>
+              <select class="Selection" name="Year" id="NewYear">
+                <option value="opt1">2014</option>
+                <option value="opt2">2015</option>
+                <option value="opt3">2016</option>
+              </select>
+              <br><br>
+              <label for="NewInstitucion">Institucion:</label>
+              <input type="text" name="NewInstitucion" placeholder="Nombre Institución" maxlength="30" required="true">
+              <br><br>
+              <label for="NewLugar">Lugar:</label>
+              <textarea name="NewLugar" rows="8" cols="50"></textarea>
+              <br><br>
+              <label for="NewCulminado">¿Culminó?</label>
+              <input type="radio" name="NewCulminado" value="Si">Sí
+              <input type="radio" name="NewCulminado" value="No" checked>No<br>
+              <br>
+              <input type="submit" name="submit" value="Enviar">
+           </fieldset>
+        </form>
+    </section>
+    <footer>
+      <svg width="100%" height="20">
+          <line x1="0" y1="10" x2="100%" y2="10" stroke="gray" stroke-width="1"/>
+      </svg>
+      <ul>
+        <li><strong>E-mail:</strong><a href="mailto:cesargonza@yahoo.com.com?subject=Evaluacion">cesargonza@yahoo.com</a></li>
+        <li><strong>Teléfono:</strong>+56 942766100</li>
+        <li><strong>Dirección:</strong>Jorge Guerra #18379, Santiago - Chile</li>
+      </ul>
+      <p style="text-aling:center">@ Todos los Derechos Reservados</p>
+    </footer>
+  </body>
+</html>
